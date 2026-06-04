@@ -32,6 +32,6 @@ An end-to-end, serverless cloud data pipeline built on AWS to automate cleaning,
 
 ## 📂 Repository Structure
 ```text
-├── README.md
-├── src/
-│   └── lambda_function.py       # Resilient Generic Cleaning Logic (Version 2)
+├──  LICENSE
+├──  README.md
+├──  lambda_function.py 
